@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **ngidingidi/ngidingidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +20,6 @@ Here are some ideas to get you started:
 I enjoy coding and I'm always looking for opportunities to hone my skills in software engineering. I'm interested in a career in software development. 
 
 PhD in Physical Chemistry. Currently working as a Product Engineer at Intel Corporation.
+
+📫 How to reach me: sicelomasango@gmail.com
 
