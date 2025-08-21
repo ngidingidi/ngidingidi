@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Sicelo Masango
+
+## About Me
+I enjoy coding and I'm always looking for opportunities to hone my skills in software engineering. I'm interested in a career in software development. 
+
+PhD in Physical Chemistry. Currently working as a Product Engineer at Intel Corporation.
+
